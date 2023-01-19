@@ -1,4 +1,7 @@
-### Hi there 👋
+###  Salve 👋
+
+- 🌱 I’m currently learning JavaScript 
+- 💬 Ask me about (discord : Mqicol#3863 )
 
 <!--
 **Mqicol13/Mqicol13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
