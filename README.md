@@ -1,4 +1,4 @@
-###  Salve 👋
+###  Ciao 🕷
 
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about (discord : Mqicol#3863 )
