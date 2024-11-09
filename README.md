@@ -1,6 +1,6 @@
 ###  Ciao 🕷
 
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Java
 - 💬 Ask me about (discord : Mqicol#3863 )
 
 <!--
